@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://kndtreeservice.com/sitemap.xml
